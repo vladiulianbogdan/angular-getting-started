@@ -10,6 +10,7 @@ frontend:
             - npm run start
     sdk:
         language: ts
-name: angular-getting-started
+    subdomain: saddlebrown-expensive-cod
+name: angular-getting-startedqweqweqweuqweiqwheiuqwheiuqhweiuqhweiquwheqiuwheqiuwehqiuwehqiuwehqiuehqwiueh
 region: us-east-1
 yamlVersion: 2
